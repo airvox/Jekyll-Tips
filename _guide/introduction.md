@@ -3,7 +3,7 @@ title: Getting started with E-type Jaguars
 heading: Introduction
 nav_title: Introduction
 order: 1
-permalink: /intro
+permalink: /
 ---
 
 
