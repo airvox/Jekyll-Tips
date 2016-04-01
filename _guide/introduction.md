@@ -4,7 +4,10 @@ heading: Introduction
 nav_title: Introduction
 order: 1
 permalink: /
+extra_class: editable
 ---
+
+<div class="{{ page.extra_class }}">
 
 
 This guide will give you a step-by-step introduction to Jekyll. We'll download a free HTML 5 template, convert it into a Jekyll website, add a blog and make it so clients or non-technical users can update content. Let's get started!
@@ -31,3 +34,5 @@ There's been huge trend towards static technologies mostly due to the complexity
 * **Scalable** - There's no backend processing on Jekyll websites which makes them insanely scalable.
 * **Source Controlled** - The entire website including all the content can be source controlled. This gives you the entire history of the website and the ability to roll back to any version.
 * **Powerful** - Blogging, photo galleries, layouts and other features you would normally need a backend for are all possible with Jekyll.
+
+</div>
