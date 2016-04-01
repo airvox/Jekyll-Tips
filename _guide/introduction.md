@@ -3,7 +3,7 @@ title: Getting started with E-type Jaguars
 heading: Introduction
 nav_title: Introduction
 order: 1
-permalink: /
+permalink: /intro
 ---
 
 
@@ -23,4 +23,13 @@ The Jaguar E-Type is a British sports car, which was manufactured by Jaguar Cars
 
 &nbsp;
 
+<<<<<<< Updated upstream
 ### &nbsp;
+=======
+* **Simple** - There's far less moving parts required for a Jekyll website. This makes Jekyll websites extremely fast and simple to build.
+* **Fast** - Jekyll websites are among the fastest on the internet. There's no time spent generating a page, the web server simply needs to return a file.
+* **Secure** - Jekyll websites are secure because it's just a static website. You don't need to worry about installing security patches or worrying if a plugin has vulnerabilities.
+* **Scalable** - There's no backend processing on Jekyll websites which makes them insanely scalable.
+* **Source Controlled** - The entire website including all the content can be source controlled. This gives you the entire history of the website and the ability to roll back to any version.
+* **Powerful** - Blogging, photo galleries, layouts and other features you would normally need a backend for are all possible with Jekyll.
+>>>>>>> Stashed changes

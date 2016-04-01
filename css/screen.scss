@@ -1,18 +1,40 @@
 ---
 ---
+$dark-gold:        #b9975b;
+$mid-gold:         #c6aa76;
+$light-gold:       #ddcba4;
+$parchment:        #fffbf1;
 
-$body-background-color: #3a3a3a;
+$stone:            #a69f88;
+$purple:           #9e007e;
+$indigo:           #007396;
+$earth:            #6d4f47;
+$moat:             #7f9c90;
+
+$teal:             #007681;
+$darkTeal:         #065D66;
+
+$blue-lias:        #98a4ae;
+$blue-bright:      #5399F5;
+
+$bright-moat:      #7AB38E;
+$dark-moat:        #1B534F;
+
+$body-background-color: $parchment;
 $body-color-secondary: #4d4d4d;
 
-$content-color: #dcdcdc;
-$content-background-color: #4d4d4d;
+$content-color: $darkTeal;
+$content-background-color: $teal;
 
-$nav-background-color: #262626;
-$nav-color-secondary: #4d4d4d;
+$nav-background-color: $teal;
+$nav-color-secondary: $parchment;
 $nav-width: 300px;
 
 $mobile-nav-height: 60px;
 $mobile-nav-padding: 10px;
+
+$heading-link-color: $light-gold;
+$body-color: $dark-moat;
 
 $brand-color: #ffd200;
 
@@ -279,7 +301,7 @@ p > code {
 			top: 0;
 			left: 0;
 			right: 0;
-			border-top: 5px solid #FC0;
+			border-top: 5px solid $light-gold;
 			z-index:1;
 		}
 	}
