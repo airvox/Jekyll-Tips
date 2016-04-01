@@ -10,7 +10,7 @@ This is an Etype Jaguar but not an electric one
 * It's not electric
 
 
-![](/uploads/jag_01.jpg)
+![](/uploads/versions/jag_01---x72-131-1555-1037-1752-1168x---.jpg)
 
 &nbsp;
 
